@@ -7,5 +7,6 @@ The deployed web app is live at https://xqm92sg8h7awzfbwunkfcq.streamlit.app/
 <li>pandas</li>
 <li>numpy</li>
 <li>scikit-learn</li>
-<li>pickle</li>
-
+<li>seaborn</li>
+<li>matplotlib</li>
+<li>lxml</li>
